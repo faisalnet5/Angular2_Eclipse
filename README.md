@@ -1,3 +1,6 @@
+# NOTE: All credit of this project work goes to Felip (https://github.com/fcoury). I compiled and edited a bit just to make his # probject compatable with Eclipse.
+# ---------------------------------------------------------------------
+
 # Getting started
 
 This is not working with WebPack yet. We are using Typescript's compiler `--watch`
